@@ -16,3 +16,8 @@ form:
           ccbync: 'CC Attribution Non-Commercial'
           ccbyncsa: 'CC Attribution Non-Commercial Share Alike'
           ccbyncnd: 'CC Attribution Non-Commercial No Derivatives'
+
+    infotext:
+      type: separator.note
+      class: none
+      content: '<p>Looking for more info about Creative Commons (CC) Licenses?<br> Visit the <a href="https://creativecommons.org/" target="_blank">creativecommons.org</a> site.</p>'
