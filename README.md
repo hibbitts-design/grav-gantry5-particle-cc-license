@@ -8,3 +8,5 @@ Upload `cc_license.html.twig` and `cc_license.yaml` files to your `/user/themes/
 
 ## Particle Options
 !['CC License' options](https://github.com/hibbitts-design/grav-gantry5-particle-cc-license/raw/master/cc-license-options.png)
+
+This Particle is also included in the [Grav OER Content Space Skeleton](https://github.com/hibbitts-design/grav-skeleton-oer-content-space).
