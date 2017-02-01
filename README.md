@@ -7,6 +7,6 @@ Particles are small, modular blocks with preset scripting that enable you to add
 Upload `cc_license.html.twig` and `cc_license.yaml` files to your `/user/themes/THEME_DIR/custom/particles` directory. For example, to install in the default Grav Gantry 5 theme Hydrogen copy the two particle files to `/user/themes/g5_hydrogen/custom/particles`. If the `custom` folder does not exist create it.
 
 ## Particle Options
-!['CC License' options](https://github.com/hibbitts-design/grav-gantry5-particle-cc-license/raw/master/cc-license-options.png)
+!['CC License' options](https://github.com/paulhibbitts/github-repo-images/blob/master/cc-license-options.png?raw=true)
 
 This Particle is also included in the [Grav OER Content Space Skeleton](https://github.com/hibbitts-design/grav-skeleton-oer-content-space).
